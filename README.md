@@ -1,6 +1,6 @@
 # ¡Hola! Soy Marian Madrid 
 
-###  Estudiante de Ingeniería de Sistemas de Información | Desarrollador(a) Software
+###  Estudiante de Ingeniería de Sistemas de Información | Desarrolladora Software
 
 ¡Bienvenido(a) a mi perfil de GitHub! Me apasiona el diseño de arquitectura de software, la resolución de problemas mediante programación orientada a objetos (POO) y la creación de interfaces de usuario intuitivas.
 
@@ -32,9 +32,8 @@
 
 ## 📌 Proyectos Destacados
 
-- 🏦 **[Nombre de tu proyecto 1]**: Aplicación de escritorio desarrollada en C# WinForms estructurada con arquitectura de clases e interfaz intuitiva.
-- 📐 **[Nombre de tu proyecto 2]**: Sistema de procesamiento/cálculo con Python integrando métodos numéricos e interfaz/sensores.
-- 🎨 **[Nombre de tu proyecto 3]**: Prototipos interactivos de alta fidelidad para plataformas educativas en Figma.
+- 📐 **Sensor de Gases**: Sistema de procesamiento/cálculo con Python integrando métodos numéricos e interfaz/sensores MQ2.
+- 🎨 **Mural UTP**: Prototipos interactivos de alta fidelidad para plataformas educativas en Figma.
 
 ---
 
@@ -44,6 +43,6 @@
 [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email-url]
 
 <!-- Enlaces de contacto -->
-[linkedin-url]: https://www.linkedin.com/in/tu-perfil/
-[email-url]: mailto:tu-correo@ejemplo.com
+[linkedin-url]: https://www.linkedin.com/in/MadridMarian/
+[email-url]: mailto:marianmadrid07@gmail.com
 -->
