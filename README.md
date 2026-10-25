@@ -1,12 +1,12 @@
-# ¡Hola! Soy Marian Madrid 👋
+# ¡Hola! Soy Marian Madrid 
 
-### 💻 Estudiante de Ingeniería de Sistemas de Información | Desarrollador(a) Software
+###  Estudiante de Ingeniería de Sistemas de Información | Desarrollador(a) Software
 
 ¡Bienvenido(a) a mi perfil de GitHub! Me apasiona el diseño de arquitectura de software, la resolución de problemas mediante programación orientada a objetos (POO) y la creación de interfaces de usuario intuitivas.
 
 ---
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 - 🎓 Actualmente cursando la **Licenciatura en Ingeniería de Sistemas de Información Gerencial**.
 - 🔍 Explorando temas de integración de software con hardware, métodos numéricos y análisis de datos.
